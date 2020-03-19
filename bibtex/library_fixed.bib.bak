@@ -8459,7 +8459,7 @@
 }
 
 @Misc{MTConnectInstitute2014,
-  author        = {{MTConnect} Institute},
+  author        = {{MTConnect Institute}},
   title         = {{MTConnect} Standard},
   year          = {2014},
   address       = {Arlington VA},
@@ -8471,7 +8471,7 @@
 }
 
 @Misc{MTConnectInstitute2018,
-  author        = {{MTConnect} Institute},
+  author        = {{MTConnect Institute}},
   title         = {{MTConnect} Standard Version 1.4.0 ({ANSI}/{MTC}1.4-2018)},
   year          = {2018},
   address       = {McLean VA},
