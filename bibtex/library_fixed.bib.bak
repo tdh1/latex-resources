@@ -889,7 +889,7 @@
 
 @InProceedings{Bajaj2016,
   author    = {Bajaj, Manas and Zwemer, Dirk and Yntema, Rose and Phung, Alex and Kumar, Amit and Dwivedi, Anshu and Waikar, Manoj},
-  booktitle = {INCOSE International Symposium},
+  booktitle = {{INCOSE} International Symposium},
   title     = {{MBSE}++ - oundations for extended model-based systems engineering across system lifecycle},
   year      = {2016},
   address   = {Edinburgh, {Scotland}, UK},
@@ -915,7 +915,7 @@
 
 @InProceedings{Bajaj2017,
   author    = {Bajaj, Manas and Backhaus, Jonathan and Walden, Tim and Waikar, Manoj and Zwemer, Dirk and Schreiber, Chris and Issa, Ghassan and Martin, Lockheed},
-  booktitle = {INCOSE International Symposium},
+  booktitle = {{INCOSE} International Symposium},
   title     = {Graph-Based Digital Blueprint for Model Based Engineering of Complex Systems},
   year      = {2017},
   address   = {Adelaide, {Australia}},
@@ -930,13 +930,13 @@
 
 @InProceedings{Bajaj2018,
   author        = {Bajaj, Manas and Hedberg Jr, Thomas},
-  booktitle     = {28\textsuperscript{th} Annual INCOSE International Symposium},
+  booktitle     = {28\textsuperscript{th} Annual {INCOSE} International Symposium},
   title         = {System Lifecycle Handler - Spinning a Digital Thread for Manufacturing},
   year          = {2018},
   address       = {Washington, {DC}},
   month         = jul,
   pages         = {1636--1650},
-  publisher     = {INCOSE},
+  publisher     = {International Council of Systems Engineering},
   volume        = {28},
   doi           = {10.1002/j.2334-5837.2018.00573.x},
   issn          = {23345837},
@@ -1491,9 +1491,9 @@
 }
 
 @InCollection{BKCASEEditorialBoard2016,
-  author    = {SEBoK Contributors},
+  author    = {{SEBoK Contributors}},
   booktitle = {Guide to the Systems Engineering Body of Knowledge ({SEBoK})},
-  publisher = {International Council on Systems Engineering (INCOSE)},
+  publisher = {International Council of Systems Engineering},
   title     = {Types of Models - {SEBoK}},
   year      = {2019},
   address   = {San Diego, CA},
@@ -3695,7 +3695,7 @@
 
 @Misc{Fischer2015,
   author        = {Fischer, Amit and Arthurs, Gavin},
-  title         = {INCOSE 2015 MBSE Workshop Breakout Session},
+  title         = {{INCOSE} 2015 {MBSE} Workshop Breakout Session},
   year          = {2015},
   keywords      = {Fischer:2015-INCOSE},
   mendeley-tags = {Fischer:2015-INCOSE},
@@ -10547,7 +10547,7 @@
   title         = {From {TRL} to {SRL}: The Concepts of Systems Readiness Levels},
   year          = {2006},
   address       = {Los Angeles, CA},
-  publisher     = {INCOSE},
+  publisher     = {International Council of Systems Engineering},
   keywords      = {Sauser:2006},
   mendeley-tags = {Sauser:2006},
 }
@@ -11252,7 +11252,7 @@
   year          = {2011},
   address       = {Denver CO},
   pages         = {893--907},
-  publisher     = {INCOSE},
+  publisher     = {International Council of Systems Engineering},
   volume        = {1},
   keywords      = {Stig:2011},
   mendeley-tags = {Stig:2011},
@@ -11494,7 +11494,7 @@
 }
 
 @TechReport{TechnicalOperationsoftheInternationalCouncilofSystemsEngineering2007,
-  author        = {Technical Operations of the International Council of Systems Engineering and International Council of Systems Engineering},
+  author        = {{Technical Operations of the International Council of Systems Engineering and International Council of Systems Engineering}},
   title         = {Systems Engineering Vision 2020},
   year          = {2007},
   address       = {San Diego CA},
