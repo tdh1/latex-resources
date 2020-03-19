@@ -95,7 +95,7 @@
 @Article{Agudo2005,
   author        = {Agudo, Isaac and Lopez, Javier and Montenegro, Jose A.},
   journal       = {ERCIM News},
-  title         = {A Graphical Delegation Solution for X.509 Attribute Certificates},
+  title         = {A Graphical Delegation Solution for {X.509} Attribute Certificates},
   year          = {2005},
   number        = {63},
   pages         = {33--34},
@@ -1086,7 +1086,7 @@
 @Article{BarnardFeeney2015,
   author    = {Barnard Feeney, Allison and Frechette, Simon P. and Srinivasan, Vijay},
   journal   = {Journal of Computing and Information Science in Engineering},
-  title     = {A Portrait of an {ISO} STEP Tolerancing Standard as an Enabler of Smart Manufacturing Systems},
+  title     = {A portrait of an {ISO} {STEP} tolerancing standard as an enabler of smart manufacturing systems},
   year      = {2015},
   issn      = {1530-9827},
   month     = jun,
@@ -1651,7 +1651,7 @@
 @TechReport{Boy2018,
   author      = {Boy, Jochen and Rosche, Phil and Darre, Frederic},
   institution = {MBx Interoperability Forum},
-  title       = {CAx-{IF} Recommended Practices for AP242 Business Object Model {XML} Product and Assembly Structure},
+  title       = {CAx-{IF} Recommended Practices for {AP} 242 Business Object Model {XML} Product and Assembly Structure},
   year        = {2018},
   address     = {Summerville, {SC}},
   pages       = {1--184},
@@ -1767,7 +1767,7 @@
 @InProceedings{Brown2013,
   author        = {Brown, Curtis W. and Luniewski, Tomasz},
   booktitle     = {Global Product Data Interoperability Summit 2013},
-  title         = {QIF, A New Interoperability Standard for Quality Data and New Extensions for Product Definition with PMI},
+  title         = {{QIF}, A New Interoperability Standard for Quality Data and New Extensions for Product Definition with PMI},
   year          = {2013},
   address       = {Phoenix Arizona},
   pages         = {44},
@@ -2058,7 +2058,7 @@
 
 @Misc{Chadwick2002,
   author        = {Chadwick, David W. and Otenko, Alexander},
-  title         = {The PERMIS X.509 role based privilege management infrastructure},
+  title         = {The PERMIS {X.509} role based privilege management infrastructure},
   year          = {2002},
   address       = {Monterey, California, {USA}},
   booktitle     = {Proceedings of the seventh {ACM} symposium on Access control models and technologies},
@@ -2883,7 +2883,7 @@
 
 @Misc{Delaunay2014,
   author        = {Delaunay, Jean-Yves},
-  title         = {Background and use of STEP AP 242 in the European Aerospace and Defense Industries},
+  title         = {Background and use of {STEP} {AP} 242 in the European Aerospace and Defense Industries},
   year          = {2014},
   address       = {Paris, {France}},
   booktitle     = {PDT {Europe} 2014},
@@ -3027,7 +3027,7 @@
 
 @Misc{DimensionalMetrologyStandardsConsortium2014,
   author        = {Dimensional Metrology Standards Consortium},
-  title         = {Part 1: Overview and Fundamental Principles in Quality Information Framework (QIF) -- An Integrated Model for Manufacturing Quality Information},
+  title         = {Part 1: Overview and Fundamental Principles in Quality Information Framework ({QIF}) -- An Integrated Model for Manufacturing Quality Information},
   year          = {2014},
   booktitle     = {Part 1: Overview and Fundamental Principles},
   keywords      = {QIF-1:2014},
@@ -3038,9 +3038,9 @@
 
 @Misc{DimensionalMetrologyStandardsConsortium2014a,
   author        = {Dimensional Metrology Standards Consortium},
-  title         = {Part 8: QIF Statistics Information Model and {XML} Schema Files in Quality Information Framework (QIF) -- An Integrated Model for Manufacturing Quality Information},
+  title         = {Part 8: {QIF} Statistics Information Model and {XML} Schema Files in Quality Information Framework ({QIF}) -- An Integrated Model for Manufacturing Quality Information},
   year          = {2014},
-  booktitle     = {Part 8: QIF Statistics Information Model and {XML} Schema Files},
+  booktitle     = {Part 8: {QIF} Statistics Information Model and {XML} Schema Files},
   keywords      = {QIF-8:2014},
   mendeley-tags = {QIF-8:2014},
   publisher     = {American National Standards Institute},
@@ -3048,9 +3048,9 @@
 
 @Misc{DimensionalMetrologyStandardsConsortium2014b,
   author        = {Dimensional Metrology Standards Consortium},
-  title         = {Part 7: QIF Results Information Model and {XML} Schema Files in Quality Information Framework (QIF) -- An Integrated Model for Manufacturing Quality Information},
+  title         = {Part 7: {QIF} Results Information Model and {XML} Schema Files in Quality Information Framework ({QIF}) -- An Integrated Model for Manufacturing Quality Information},
   year          = {2014},
-  booktitle     = {Part 7: QIF Results Information Model and {XML} Schema Files},
+  booktitle     = {Part 7: {QIF} Results Information Model and {XML} Schema Files},
   keywords      = {QIF-7:2014},
   mendeley-tags = {QIF-7:2014},
   publisher     = {American National Standards Institute},
@@ -3071,7 +3071,7 @@
 
 @Misc{DMSC2018,
   author        = {Digital Metrology Standards Consortium},
-  title         = {QIF Standard Version 3.0 ({ANSI}/DMSC QIF 3.0)},
+  title         = {{QIF} Standard Version 3.0 ({ANSI}/{DMSC} {QIF} 3.0)},
   year          = {2018},
   address       = {Burleson {TX}},
   keywords      = {Standard},
@@ -3551,7 +3551,7 @@
 @Article{Feeney2002,
   author        = {Feeney, Allison Barnard},
   journal       = {Journal of Computing and Information Science in Engineering},
-  title         = {The STEP Modular Architecture},
+  title         = {The {STEP} Modular Architecture},
   year          = {2002},
   number        = {2},
   pages         = {132--135},
@@ -3991,7 +3991,7 @@
 @TechReport{Ganguli2015,
   author      = {Ganguli, Jay and Charpy, Didier},
   institution = {PDES Inc.},
-  title       = {White Paper for {ISO} 10303 ( STEP ) AP 239 edition 3 Application Protocol For Product Life Cycle Support ( PLCS )},
+  title       = {White Paper for {ISO} 10303 ( {STEP} ) {AP} 239 edition 3 Application Protocol For Product Life Cycle Support ( {PLCS} )},
   year        = {2015},
   number      = {1},
 }
@@ -4551,11 +4551,11 @@
 
 @Misc{Hardwick,
   author        = {Hardwick, Martin and Loffredo, David},
-  title         = {What is STEP?},
+  title         = {What is {STEP}?},
   address       = {Troy NY},
   keywords      = {Hardwick:2017},
   mendeley-tags = {Hardwick:2017},
-  publisher     = {STEP Tools, Inc.},
+  publisher     = {{STEP} Tools, Inc.},
   url           = {https://www.steptools.com/stds/step/step_1.html},
 }
 
@@ -4934,7 +4934,7 @@
 @Article{HedbergJr2016,
   author        = {Hedberg Jr, Thomas and Krima, Sylvere and Camelio, Jaime A.},
   journal       = {Journal of Computing and Information Science in Engineering},
-  title         = {Embedding X.509 Digital Certificates in Three-Dimensional Models for Authentication, Authorization, and Traceability of Product Data},
+  title         = {Embedding {X.509} Digital Certificates in Three-Dimensional Models for Authentication, Authorization, and Traceability of Product Data},
   year          = {2016},
   issn          = {15309827},
   number        = {1},
@@ -5081,7 +5081,7 @@
 
 @Misc{HedbergJra,
   author        = {Hedberg Jr, Thomas and Helu, Moneer and Barnard Feeney, Allison and Luce, Mark},
-  title         = {Query-able Data Repository (QDR) for the Smart Manufacturing Systems ({SMS}) Test Bed using MTConnect},
+  title         = {Query-able Data Repository ({QDR}) for the Smart Manufacturing Systems ({SMS}) Test Bed using {MTConnect}},
   address       = {Gaithersburg MD},
   booktitle     = {NIST Advanced Manufacturing Series},
   doi           = {10.18434/T4FK54},
@@ -5223,7 +5223,7 @@
 
 @Misc{Helu2016,
   author        = {Helu, Moneer and Hedberg Jr, Thomas and Barnard Feeney, Allison and Luce, Mark and Hedberg, Thomas and Luce, Mark and Feeney, Allison Barnard and Helu, Moneer},
-  title         = {Volatile Data Stream (VDS) for the Smart Manufacturing Systems ({SMS}) Test Bed using MTConnect},
+  title         = {Volatile Data Stream (VDS) for the Smart Manufacturing Systems ({SMS}) Test Bed using {MTConnect}},
   year          = {2016},
   address       = {Gaithersburg MD},
   booktitle     = {National Institute of Standards and Technology},
@@ -5345,7 +5345,7 @@
 
 @Book{Higgins2013,
   author        = {Higgins, Karen L.},
-  publisher     = {Elsevier, AP, Academic Press in an imprint of Elsevier},
+  publisher     = {Elsevier, {AP}, Academic Press in an imprint of Elsevier},
   title         = {Financial whirlpools : a systems story of the great global recession},
   year          = {2013},
   address       = {Kidlington, Oxford, UK},
@@ -5731,7 +5731,7 @@
 
 @Misc{IETF2013-3,
   author        = {The Internet Engineering Task Force},
-  title         = {Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile},
+  title         = {Internet {X.509} Public Key Infrastructure Certificate and Certificate Revocation List ({CRL}) Profile},
   year          = {2013},
   address       = {Freemont California},
   keywords      = {IETF:2013-3},
@@ -5894,7 +5894,7 @@
   year          = {1994},
   keywords      = {{ISO}:1994},
   mendeley-tags = {{ISO}:1994},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 10303-},
 }
 
@@ -5904,7 +5904,7 @@
   year          = {2002},
   keywords      = {{ISO}:2002},
   mendeley-tags = {{ISO}:2002},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 10303-},
 }
 
@@ -5914,7 +5914,7 @@
   year          = {2006},
   keywords      = {{ISO}:2006},
   mendeley-tags = {{ISO}:2006},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 26183},
 }
 
@@ -5924,7 +5924,7 @@
   year          = {2007},
   keywords      = {{ISO}:2007},
   mendeley-tags = {{ISO}:2007},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 10303-},
 }
 
@@ -5934,7 +5934,7 @@
   year          = {2008},
   keywords      = {{ISO}:2008},
   mendeley-tags = {{ISO}:2008},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 10303-},
 }
 
@@ -5944,7 +5944,7 @@
   year          = {2010},
   keywords      = {{ISO}:2010},
   mendeley-tags = {{ISO}:2010},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 10303-},
 }
 
@@ -5954,7 +5954,7 @@
   year          = {2011},
   keywords      = {{ISO}:2011},
   mendeley-tags = {{ISO}:2011},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 10303-},
 }
 
@@ -5964,7 +5964,7 @@
   year          = {2011},
   keywords      = {{ISO}:2011},
   mendeley-tags = {{ISO}:2011},
-  publisher     = {{ISO}/TC 213},
+  publisher     = {{ISO}/{TC} 213},
   volume        = {{ISO} 17450-},
 }
 
@@ -5974,7 +5974,7 @@
   year          = {2012},
   keywords      = {{ISO}-JT:2012},
   mendeley-tags = {{ISO}-JT:2012},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 14306},
 }
 
@@ -5984,7 +5984,7 @@
   year          = {2012},
   keywords      = {{ISO}-{DOI}:2012},
   mendeley-tags = {{ISO}-{DOI}:2012},
-  publisher     = {{ISO}/TC 46/{SC} 9},
+  publisher     = {{ISO}/{TC} 46/{SC} 9},
   volume        = {{ISO} 26324},
 }
 
@@ -5994,7 +5994,7 @@
   year          = {2012},
   keywords      = {{ISO}-Audit:2016},
   mendeley-tags = {{ISO}-Audit:2016},
-  publisher     = {{ISO}/TC 20/{SC} 13},
+  publisher     = {{ISO}/{TC} 20/{SC} 13},
   volume        = {{ISO} 16363:},
 }
 
@@ -6026,7 +6026,7 @@
   year          = {2015},
   keywords      = {{ISO}:2006,ISO:2015},
   mendeley-tags = {{ISO}:2006,ISO:2015},
-  publisher     = {{ISO}/TC 10},
+  publisher     = {{ISO}/{TC} 10},
   volume        = {{ISO} 16792:},
 }
 
@@ -6046,17 +6046,17 @@
   year          = {2015},
   keywords      = {{ISO}:2015},
   mendeley-tags = {{ISO}:2015},
-  publisher     = {{ISO}/TC 176/{SC} 2},
+  publisher     = {{ISO}/{TC} 176/{SC} 2},
   volume        = {{ISO} 9001:2},
 }
 
 @Misc{InternationalStandardsOrganization2016,
   author        = {International Standards Organization},
-  title         = {Document management --- Engineering document format using {PDF} --- Part 2: Use of {ISO} 32000-2 including support for long-term preservation ({PDF}/E-2)},
+  title         = {Document management --- Engineering document format using {PDF} --- Part 2: Use of {ISO} 32000-2 including support for long-term preservation ({PDF}/{E}-2)},
   year          = {2016},
   keywords      = {{ISO}-PDFe:2016},
   mendeley-tags = {{ISO}-PDFe:2016},
-  publisher     = {{ISO}/TC 171/{SC} 2},
+  publisher     = {{ISO}/{TC} 171/{SC} 2},
   volume        = {{ISO}/DIS 24},
 }
 
@@ -6149,7 +6149,7 @@
   title     = {{ISO} 8601 Date and time format},
   year      = {2018},
   address   = {Geneva},
-  publisher = {{ISO}/TC 154},
+  publisher = {{ISO}/{TC} 154},
   url       = {https://www.iso.org/iso-8601-date-and-time-format.html},
 }
 
@@ -6159,7 +6159,7 @@
   year          = {2009},
   keywords      = {{ISO}:2009},
   mendeley-tags = {{ISO}:2009},
-  publisher     = {{ISO}/TC 184/{SC} 1},
+  publisher     = {{ISO}/{TC} 184/{SC} 1},
   volume        = {{ISO} 6983-1},
 }
 
@@ -6179,7 +6179,7 @@
   year          = {2008},
   keywords      = {{ISO}:2008},
   mendeley-tags = {{ISO}:2008},
-  publisher     = {{ISO}/TC 171/{SC} 2},
+  publisher     = {{ISO}/{TC} 171/{SC} 2},
   volume        = {{ISO} 32000-},
 }
 
@@ -6189,17 +6189,17 @@
   year          = {2012},
   keywords      = {{ISO}-PLCS:2012},
   mendeley-tags = {{ISO}-PLCS:2012},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 10303-},
 }
 
 @Misc{ISO-PRC2014,
   author        = {International Standards Organization},
-  title         = {Document management -- {3D} use of Product Representation Compact (PRC) format -- Part 1: PRC 10001},
+  title         = {Document management -- {3D} use of Product Representation Compact ({PRC}) format -- Part 1: {PRC} 10001},
   year          = {2014},
   keywords      = {{ISO}-PRC:2014},
   mendeley-tags = {{ISO}-PRC:2014},
-  publisher     = {{ISO}/TC 171/{SC} 2},
+  publisher     = {{ISO}/{TC} 171/{SC} 2},
   volume        = {{ISO} 14739-},
 }
 
@@ -6207,7 +6207,7 @@
   author    = {International Standards Organization},
   title     = {Industrial automation systems and integration -- Product data representation and exchange -- Part 21: Implementation methods: Clear text encoding of the exchange structure},
   year      = {2016},
-  publisher = {{ISO}/TC 184/{SC} 4},
+  publisher = {{ISO}/{TC} 184/{SC} 4},
   volume    = {{ISO} 10303-},
 }
 
@@ -6217,7 +6217,7 @@
   year          = {2014},
   keywords      = {{ISO}-STP:2014},
   mendeley-tags = {{ISO}-STP:2014},
-  publisher     = {{ISO}/TC 184/{SC} 4},
+  publisher     = {{ISO}/{TC} 184/{SC} 4},
   volume        = {{ISO} 10303-},
 }
 
@@ -7399,7 +7399,7 @@
 @Article{Lin2001,
   author        = {Lin, Z. C. and Chow, J. J.},
   journal       = {International Journal of Advanced Manufacturing Technology},
-  title         = {Integration Planning Model of IDEF0 and STEP Product Data Representation Methods in a CMM Measuring System},
+  title         = {Integration Planning Model of {IDEF0} and {STEP} Product Data Representation Methods in a CMM Measuring System},
   year          = {2001},
   pages         = {39--53},
   volume        = {17},
@@ -7472,7 +7472,7 @@
 @Article{Lipman2015b,
   author        = {Lipman, Robert and Lubell, Joshua},
   journal       = {Computer-Aided Design},
-  title         = {Conformance checking of PMI representation in {CAD} model STEP data exchange files},
+  title         = {Conformance checking of PMI representation in {CAD} model {STEP} data exchange files},
   year          = {2015},
   number        = {0},
   pages         = {14--23},
@@ -7776,7 +7776,7 @@
 
 @Misc{MAPIFoundationa,
   author        = {MAPI Foundation},
-  title         = {How Important Is U.S. Manufacturing Today?},
+  title         = {How Important Is {U.S.} Manufacturing Today?},
   address       = {Arlington VA},
   keywords      = {MAPI:2016},
   mendeley-tags = {MAPI:2016},
@@ -8134,7 +8134,7 @@
 @TechReport{Michaloski2016,
   author      = {Michaloski, John and Hedberg Jr, Thomas and Huang, Hui and Kramer, Thomas R.},
   institution = {National Institute of Standards and Technology},
-  title       = {End-to-End Quality Information Framework (QIF) Technology Survey},
+  title       = {End-to-End Quality Information Framework ({QIF}) Technology Survey},
   year        = {2016},
   address     = {Gaithersburg, MD},
   month       = may,
@@ -8287,7 +8287,7 @@
 
 @Misc{Montenegro2004,
   author        = {Montenegro, Jose A. and Moya, Fernando},
-  title         = {A practical apprach of X.509 attribute certificate framework as support to obtain privilege delegation},
+  title         = {A practical apprach of {X.509} attribute certificate framework as support to obtain privilege delegation},
   year          = {2004},
   address       = {Samos Island, {Greece}},
   booktitle     = {1\textsuperscript{st} European PKI Workshop: Research and Applications},
@@ -8330,7 +8330,7 @@
 @InProceedings{Moore2012,
   author        = {Moore, Jeff},
   booktitle     = {Global Product Interoperability Summit 2012},
-  title         = {Quality Information Framework (QIF)},
+  title         = {Quality Information Framework ({QIF})},
   year          = {2012},
   address       = {Chandler Arizona},
   pages         = {19},
@@ -8459,8 +8459,8 @@
 }
 
 @Misc{MTConnectInstitute2014,
-  author        = {MTConnect Institute},
-  title         = {MTConnect Standard},
+  author        = {{MTConnect} Institute},
+  title         = {{MTConnect} Standard},
   year          = {2014},
   address       = {Arlington VA},
   booktitle     = {Part 1 - Overview and Protocol},
@@ -8471,14 +8471,14 @@
 }
 
 @Misc{MTConnectInstitute2018,
-  author        = {MTConnect Institute},
-  title         = {MTConnect Standard Version 1.4.0 ({ANSI}/MTC1.4-2018)},
+  author        = {{MTConnect} Institute},
+  title         = {{MTConnect} Standard Version 1.4.0 ({ANSI}/{MTC}1.4-2018)},
   year          = {2018},
   address       = {McLean VA},
   keywords      = {Standard},
   mendeley-tags = {Standard},
   pages         = {435},
-  publisher     = {MTConnect Institute},
+  publisher     = {{MTConnect} Institute},
   url           = {https://www.mtconnect.org/s/ANSI_MTC1_4-2018.pdf},
 }
 
@@ -9059,7 +9059,7 @@
   volume        = {33},
   doi           = {10.1016/S0010-4485(01)00051-3},
   isbn          = {0010-4485},
-  keywords      = {Mappings,Oh:2001,Product data exchange,STEP},
+  keywords      = {Mappings,Oh:2001,Product data exchange,{STEP}},
   mendeley-tags = {Oh:2001},
 }
 
@@ -9426,7 +9426,7 @@
 @Article{Peak2005,
   author        = {Peak, Russell S. and Lubell, Joshua and Srinivasan, Vijay and Waterbury, Stephen C.},
   journal       = {Journal of Computing and Information Science in Engineering},
-  title         = {STEP, {XML}, and {UML}: Complementary Technologies},
+  title         = {{STEP}, {XML}, and {UML}: Complementary Technologies},
   year          = {2005},
   number        = {4},
   pages         = {379--390},
@@ -10972,7 +10972,7 @@
 @InProceedings{Sobel2015,
   author    = {Sobel, William},
   booktitle = {North American Manufacturing Research Conference},
-  title     = {MTConnect Architecture and Research Overview},
+  title     = {{MTConnect} Architecture and Research Overview},
   year      = {2015},
   address   = {Charlotte, NC},
   publisher = {{SME}},
@@ -11197,8 +11197,8 @@
 }
 
 @Misc{STEPAP242Project2014,
-  author        = {STEP AP242 Project},
-  title         = {STEP AP 242 on a Page},
+  author        = {{{STEP} {AP} 242 Project}},
+  title         = {{STEP} {AP} 242 on a Page},
   year          = {2014},
   keywords      = {STEP:2014},
   mendeley-tags = {STEP:2014},
@@ -11448,7 +11448,7 @@
 @Article{Tanaka2006,
   author        = {Tanaka, F. and Kishinami, T.},
   journal       = {Computers in Industry},
-  title         = {STEP-based quality diagnosis of shape data of product models for collaborative e-engineering},
+  title         = {{STEP}-based quality diagnosis of shape data of product models for collaborative e-engineering},
   year          = {2006},
   number        = {3},
   pages         = {245--260},
@@ -11555,7 +11555,7 @@
   title         = {Enterprise-Control System Integration $-$ Part 1: Models and Terminology},
   year          = {2010},
   address       = {North Carolina},
-  isbn          = {ANSI/ISA-95.00.01-2010},
+  isbn          = {{ANSI}/ISA-95.00.01-2010},
   keywords      = {ISA:2010},
   mendeley-tags = {ISA:2010},
   publisher     = {ISA},
@@ -11566,7 +11566,7 @@
   title         = {Enterprise-Control System Integration $-$ Part 4: Objects and attributes for manufacturing operations management integration},
   year          = {2012},
   address       = {North Carolina},
-  isbn          = {ANSI/ISA-95.00.04-2012},
+  isbn          = {{ANSI}/ISA-95.00.04-2012},
   keywords      = {ISA:2012},
   mendeley-tags = {ISA:2012},
   publisher     = {ISA},
@@ -11577,7 +11577,7 @@
   title         = {Enterprise-Control System Integration $-$ Part 3: Activity Models of Manufacturing Operations Management},
   year          = {2013},
   address       = {North Carolina},
-  isbn          = {ANSI/ISA-95.00.03.2013},
+  isbn          = {{ANSI}/ISA-95.00.03.2013},
   keywords      = {ISA:2013},
   mendeley-tags = {ISA:2013},
   publisher     = {ISA},
@@ -12261,7 +12261,7 @@
 @InProceedings{Venkatesh2016,
   author        = {Venkatesh, Sid and Ly, Sidney and Manning, Martin and Michaloski, John and Proctor, Fred},
   booktitle     = {International Manufacturing Science and Engineering Conference},
-  title         = {Automating Asset Knowledge With MTConnect},
+  title         = {Automating Asset Knowledge With {MTConnect}},
   year          = {2016},
   address       = {Blacksburg, VA, {USA}},
   number        = {49910},
@@ -12545,7 +12545,7 @@
 @Article{Wang2015,
   author        = {Wang, Xi Vincent and Xu, Xun W.},
   journal       = {International Journal of Computer Integrated Manufacturing},
-  title         = {A collaborative product data exchange environment based on STEP},
+  title         = {A collaborative product data exchange environment based on {STEP}},
   year          = {2015},
   number        = {1},
   pages         = {75--86},
@@ -12560,7 +12560,7 @@
 @InProceedings{Wardhani2016,
   author        = {Wardhani, R. and Xu, X.},
   booktitle     = {12\textsuperscript{th} {IEEE}/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)},
-  title         = {Model-based manufacturing based on STEP AP242},
+  title         = {Model-based manufacturing based on {STEP} {AP} 242},
   year          = {2016},
   address       = {Auckland, {New Zealand}},
   pages         = {1--5},
@@ -13481,7 +13481,7 @@
   year          = {2012},
   address       = {Bucharest},
   pages         = {8},
-  keywords      = {Quality Information Framework (QIF),XML schema,Zhao:2012,data model,interoperability,manufacturing quality,measurement features,quality characteristics},
+  keywords      = {Quality Information Framework ({QIF}),XML schema,Zhao:2012,data model,interoperability,manufacturing quality,measurement features,quality characteristics},
   mendeley-tags = {Zhao:2012},
 }
 
