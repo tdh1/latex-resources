@@ -3026,7 +3026,7 @@
 }
 
 @Misc{DimensionalMetrologyStandardsConsortium2014,
-  author        = {Dimensional Metrology Standards Consortium},
+  author        = {{Dimensional Metrology Standards Consortium}},
   title         = {Part 1: Overview and Fundamental Principles in Quality Information Framework ({QIF}) -- An Integrated Model for Manufacturing Quality Information},
   year          = {2014},
   booktitle     = {Part 1: Overview and Fundamental Principles},
@@ -3037,7 +3037,7 @@
 }
 
 @Misc{DimensionalMetrologyStandardsConsortium2014a,
-  author        = {Dimensional Metrology Standards Consortium},
+  author        = {{Dimensional Metrology Standards Consortium}},
   title         = {Part 8: {QIF} Statistics Information Model and {XML} Schema Files in Quality Information Framework ({QIF}) -- An Integrated Model for Manufacturing Quality Information},
   year          = {2014},
   booktitle     = {Part 8: {QIF} Statistics Information Model and {XML} Schema Files},
@@ -3047,7 +3047,7 @@
 }
 
 @Misc{DimensionalMetrologyStandardsConsortium2014b,
-  author        = {Dimensional Metrology Standards Consortium},
+  author        = {{Dimensional Metrology Standards Consortium}},
   title         = {Part 7: {QIF} Results Information Model and {XML} Schema Files in Quality Information Framework ({QIF}) -- An Integrated Model for Manufacturing Quality Information},
   year          = {2014},
   booktitle     = {Part 7: {QIF} Results Information Model and {XML} Schema Files},
@@ -3070,7 +3070,7 @@
 }
 
 @Misc{DMSC2018,
-  author        = {Digital Metrology Standards Consortium},
+  author        = {{Dimensional Metrology Standards Consortium}},
   title         = {{QIF} Standard Version 3.0 ({ANSI}/{DMSC} {QIF} 3.0)},
   year          = {2018},
   address       = {Burleson {TX}},
@@ -5730,7 +5730,7 @@
 }
 
 @Misc{IETF2013-3,
-  author        = {The Internet Engineering Task Force},
+  author        = {{The Internet Engineering Task Force}},
   title         = {Internet {X.509} Public Key Infrastructure Certificate and Certificate Revocation List ({CRL}) Profile},
   year          = {2013},
   address       = {Freemont California},
@@ -5742,7 +5742,7 @@
 }
 
 @Misc{IETF2013-9,
-  author        = {The Internet Engineering Task Force},
+  author        = {{The Internet Engineering Task Force}},
   title         = {An Internet Attribute Certificate Profile for Authorization},
   year          = {2013},
   address       = {Freemont California},
@@ -5889,7 +5889,7 @@
 }
 
 @Misc{InternationalStandardsOrganization1994,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- Product data representation and exchange -- Part 1: Overview and fundamental principles},
   year          = {1994},
   keywords      = {{ISO}:1994},
@@ -5899,7 +5899,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2002,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- Product data representation and exchange -- Part 21: Implementation methods: Clear text encoding of the exchange structure},
   year          = {2002},
   keywords      = {{ISO}:2002},
@@ -5909,7 +5909,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2006a,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {SASIG Product data quality guidelines for the global automotive industry},
   year          = {2006},
   keywords      = {{ISO}:2006},
@@ -5919,7 +5919,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2007,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- Product data representation and exchange -- Part 238: Application protocol: Application interpreted model for computerized numerical controllers},
   year          = {2007},
   keywords      = {{ISO}:2007},
@@ -5929,7 +5929,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2008c,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- Product data representation and exchange -- Part 59: Integrated generic resource -- Quality of product shape data},
   year          = {2008},
   keywords      = {{ISO}:2008},
@@ -5939,7 +5939,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2010,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- Product data representation and exchange -- Part 214: Application protocol: Core data for automotive mechanical design processes},
   year          = {2010},
   keywords      = {{ISO}:2010},
@@ -5949,7 +5949,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2011,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- Product data representation and exchange -- Part 203: Application protocol: Configuration controlled {3D} design of mechanical parts and assemblies},
   year          = {2011},
   keywords      = {{ISO}:2011},
@@ -5959,7 +5959,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2011a,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Geometrical product specifications ({GPS}) --- General concepts --- part 1: Model for geometrical specification and verification.},
   year          = {2011},
   keywords      = {{ISO}:2011},
@@ -5969,7 +5969,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2012,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- JT file format specification for {3D} visualization},
   year          = {2012},
   keywords      = {{ISO}-JT:2012},
@@ -5979,7 +5979,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2012,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Information and documentation -- Digital object identifier system},
   year          = {2012},
   keywords      = {{ISO}-{DOI}:2012},
@@ -5989,7 +5989,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2012c,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Space data and information transfer systems -- Audit and certification of trustworthy digital repositories},
   year          = {2012},
   keywords      = {{ISO}-Audit:2016},
@@ -5999,7 +5999,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2014a,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {DRAFT - Reference process for seamless production planning -- Standardized procedure for production systems engineering},
   year          = {2014},
   address       = {Geneva},
@@ -6011,7 +6011,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2015,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {{ISO}/TC10 Standards Catalogue},
   year          = {2015},
   keywords      = {{ISO}:2015},
@@ -6021,7 +6021,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2015,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Technical product documentation -- Digital product definition data practices},
   year          = {2015},
   keywords      = {{ISO}:2006,ISO:2015},
@@ -6031,7 +6031,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2015a,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Conformity assessment -- Requirements for bodies providing audit and certification of management systems -- Part 1: Requirements},
   year          = {2015},
   keywords      = {{ISO}-CA:2015},
@@ -6041,7 +6041,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2015c,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Quality Management Systems},
   year          = {2015},
   keywords      = {{ISO}:2015},
@@ -6051,7 +6051,7 @@
 }
 
 @Misc{InternationalStandardsOrganization2016,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Document management --- Engineering document format using {PDF} --- Part 2: Use of {ISO} 32000-2 including support for long-term preservation ({PDF}/{E}-2)},
   year          = {2016},
   keywords      = {{ISO}-PDFe:2016},
@@ -6145,7 +6145,7 @@
 }
 
 @Misc{ISO-DT2018,
-  author    = {International Standards Organization},
+  author    = {{International Standards Organization}},
   title     = {{ISO} 8601 Date and time format},
   year      = {2018},
   address   = {Geneva},
@@ -6154,7 +6154,7 @@
 }
 
 @Misc{ISO-GCode2009,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Automation systems and integration -- Numerical control of machines -- Program format and definitions of address words -- Part 1: Data format for positioning, line motion and contouring control systems},
   year          = {2009},
   keywords      = {{ISO}:2009},
@@ -6164,17 +6164,17 @@
 }
 
 @Misc{ISOIEC2015,
-  author    = {ISO/{IEC JTC 1/{SC} 32 Data management and interchange}},
-  title     = {Information technology -- Metadata registries (MDR) -- Part 1: Framework},
+  author    = {{International Standards Organization}},
+  title     = {Information technology -- Metadata registries ({MDR}) -- Part 1: Framework},
   year      = {2015},
   address   = {Geneva},
   pages     = {22},
-  publisher = {International Standards Organization},
+  publisher = {{ISO/IEC JTC 1/SC 32}},
   url       = {http://metadata-standards.org/11179/ https://www.iso.org/standard/61932.html},
 }
 
 @Misc{ISO-PDF2008,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Document management -- Portable document format -- Part 1: {PDF} 1.7},
   year          = {2008},
   keywords      = {{ISO}:2008},
@@ -6184,7 +6184,7 @@
 }
 
 @Misc{ISO-PLCS2012,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- Product data representation and exchange -- Part 239: Application protocol: Product life cycle support},
   year          = {2012},
   keywords      = {{ISO}-PLCS:2012},
@@ -6194,7 +6194,7 @@
 }
 
 @Misc{ISO-PRC2014,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Document management -- {3D} use of Product Representation Compact ({PRC}) format -- Part 1: {PRC} 10001},
   year          = {2014},
   keywords      = {{ISO}-PRC:2014},
@@ -6204,7 +6204,7 @@
 }
 
 @Misc{ISO-STEP21-2016,
-  author    = {International Standards Organization},
+  author    = {{International Standards Organization}},
   title     = {Industrial automation systems and integration -- Product data representation and exchange -- Part 21: Implementation methods: Clear text encoding of the exchange structure},
   year      = {2016},
   publisher = {{ISO}/{TC} 184/{SC} 4},
@@ -6212,7 +6212,7 @@
 }
 
 @Misc{ISO-STP2014,
-  author        = {International Standards Organization},
+  author        = {{International Standards Organization}},
   title         = {Industrial automation systems and integration -- Product data representation and exchange -- Part 242: Application protocol: Managed model-based {3D} engineering},
   year          = {2014},
   keywords      = {{ISO}-STP:2014},
@@ -6232,7 +6232,7 @@
 }
 
 @Misc{ITU2014,
-  author        = {Telecommunication Standardization Sector of ITU},
+  author        = {{Telecommunication Standardization Sector of ITU}},
   title         = {Information technology -- Open Systems Interconnection -- The Directory -- Part 8: Public-key and attribute certificate frameworks},
   year          = {2014},
   address       = {Geneva},
@@ -6244,7 +6244,7 @@
 }
 
 @Misc{ITU2017,
-  author        = {Telecommunication Standardization Sector of ITU},
+  author        = {{Telecommunication Standardization Sector of ITU}},
   title         = {Information technology -- Open Systems Interconnection -- The Directory -- Part 8: Public-key and attribute certificate frameworks},
   year          = {2017},
   address       = {Geneva},
@@ -8876,8 +8876,8 @@
 }
 
 @Misc{OASIS2005,
-  author        = {Organization for the Advancement of Structured Information Standards},
-  title         = {Assertions and protocols for the OASIS security assertion markup language (SAML) v2.0},
+  author        = {{Organization for the Advancement of Structured Information Standards}},
+  title         = {Assertions and protocols for the oasis security assertion markup language ({SAML}) v2.0},
   year          = {2005},
   address       = {Burlington MA},
   keywords      = {OASIS:2005},
@@ -8887,7 +8887,7 @@
 }
 
 @Misc{OASIS2015,
-  author        = {Organization for the Advancement of Structured Information Standards},
+  author        = {{Organization for the Advancement of Structured Information Standards}},
   title         = {About Us},
   year          = {2015},
   address       = {Burlington MA},
@@ -10462,7 +10462,7 @@
 }
 
 @Misc{SAEInternational2011,
-  author        = {SAE International},
+  author        = {{SAE International}},
   title         = {Configuration Management Standard},
   year          = {2011},
   address       = {Warrendale, PA},
@@ -10475,7 +10475,7 @@
 }
 
 @Misc{SAEInternational2014,
-  author        = {SAE International},
+  author        = {{SAE International}},
   title         = {Aerospace First Article Inspection Requirement},
   year          = {2014},
   address       = {Warrendale, PA},
