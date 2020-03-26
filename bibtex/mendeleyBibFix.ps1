@@ -1,1 +1,1 @@
-.\mendeleyBibFix.exe .\library_fixed.bib .\library.bib
+.\mendeleyBibFix.exe .\library_autoclean.bib .\library.bib
