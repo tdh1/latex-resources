@@ -1,0 +1,19 @@
+\documentclass[11pt,twocolumn]{article}
+\usepackage{graphicx} % Required for inserting images
+
+\usepackage[acronym, nomain, toc, nonumberlist]{glossaries}
+\loadglsentries[acronym]{glossaries/acronyms}
+
+\title{Latex Resources}
+\author{Thomas Hedberg}
+
+\makeglossaries
+
+\begin{document}
+
+\maketitle
+
+\glsaddall
+\printglossary[type=\acronymtype,title=Acronyms]
+
+\end{document}
